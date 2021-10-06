@@ -3,6 +3,7 @@
 
 References:
 
+* https://writings.sh/post/firing-squad-synchronization-problem
 * https://en.wikipedia.org/wiki/Firing_squad_synchronization_problem
 * https://www.youtube.com/watch?v=9swgG1Nmurg
 
